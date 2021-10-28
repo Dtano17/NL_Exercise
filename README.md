@@ -1,4 +1,4 @@
-### Nested List Exercise Summary:
+### Exercise Summary:
 NWEA Candidate: Dennis Tanaruno - Nested List Code Sample request exercise.
 
 ### Code Sample Request:
@@ -23,3 +23,6 @@ The first part is best done with recursion
 
 ### Built with:
 - [python](https://www.python.org/)
+
+### Author:
+- **Dennis A. Tanaruno**
